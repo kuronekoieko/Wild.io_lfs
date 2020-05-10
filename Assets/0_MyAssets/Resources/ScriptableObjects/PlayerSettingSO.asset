@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 198a6f6d8e56b4605ae6bc786c4e0293, type: 3}
+  m_Name: PlayerSettingSO
+  m_EditorClassIdentifier: 
+  playerSettings:
+  - color: {r: 1, g: 0.5227925, b: 0, a: 0}
+    name: Player
+  - color: {r: 1, g: 0, b: 0, a: 0}
+    name: John
+  - color: {r: 0.99260664, g: 0, b: 1, a: 0}
+    name: Takahasi
+  - color: {r: 0, g: 0.07363939, b: 1, a: 0}
+    name: Black Cat
+  - color: {r: 0, g: 1, b: 0.9806142, a: 0}
+    name: Sweety
+  - color: {r: 0, g: 1, b: 0.30488086, a: 0}
+    name: Bald Man
+  - color: {r: 0.77491474, g: 1, b: 0, a: 0}
+    name: The Power
+  - color: {r: 1, g: 0.6745283, b: 0.8038757, a: 0}
+    name: Alex
+  - color: {r: 0.78612787, g: 0.7783019, b: 1, a: 0}
+    name: Sam
+  - color: {r: 1, g: 0.9811943, b: 0.7971698, a: 0}
+    name: Abbie
+  - color: {r: 0.7971698, g: 1, b: 0.92705613, a: 0}
+    name: Chris
