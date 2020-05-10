@@ -86,25 +86,6 @@ CapsuleCollider:
   m_Height: 7.7261243
   m_Direction: 1
   m_Center: {x: 0, y: 3.6298106, z: -0.07225108}
---- !u!95 &5810946547546687583
-Animator:
-  serializedVersion: 3
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7913059691324611068}
-  m_Enabled: 1
-  m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 277d68dd5007a460b9fb743977666ca0, type: 2}
-  m_CullingMode: 0
-  m_UpdateMode: 0
-  m_ApplyRootMotion: 0
-  m_LinearVelocityBlending: 0
-  m_WarningMessage: 
-  m_HasTransformHierarchy: 1
-  m_AllowConstantClipSamplingOptimization: 1
-  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1001 &1725307742017550092
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -115,10 +96,6 @@ PrefabInstance:
     - target: {fileID: 100000, guid: bc98890f6028f444eaa7789bde5e2eeb, type: 3}
       propertyPath: m_Name
       value: CFX2_Blood
-      objectReference: {fileID: 0}
-    - target: {fileID: 100000, guid: bc98890f6028f444eaa7789bde5e2eeb, type: 3}
-      propertyPath: m_IsActive
-      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: bc98890f6028f444eaa7789bde5e2eeb, type: 3}
       propertyPath: m_LocalPosition.x
@@ -300,16 +277,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: Stickman_heads_sphere
       objectReference: {fileID: 0}
-    - target: {fileID: 8592876449704463762, guid: 6b5d591dbb72ac04a80d42bbb710cb7a,
-        type: 3}
-      propertyPath: m_IsActive
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 8592876449707639036, guid: 6b5d591dbb72ac04a80d42bbb710cb7a,
-        type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: 6db85fc1002af7e44bf4ab4b4b085a16, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6b5d591dbb72ac04a80d42bbb710cb7a, type: 3}
 --- !u!1 &7867200839105227083 stripped
@@ -620,27 +587,8 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 4224794579921330, guid: 0541a402df969f442be9ec10a161693f, type: 3}
-      propertyPath: m_LocalScale.x
-      value: 5
-      objectReference: {fileID: 0}
-    - target: {fileID: 4224794579921330, guid: 0541a402df969f442be9ec10a161693f, type: 3}
-      propertyPath: m_LocalScale.y
-      value: 5
-      objectReference: {fileID: 0}
-    - target: {fileID: 4224794579921330, guid: 0541a402df969f442be9ec10a161693f, type: 3}
-      propertyPath: m_LocalScale.z
-      value: 5
-      objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 111942788058597142, guid: 0541a402df969f442be9ec10a161693f, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0541a402df969f442be9ec10a161693f, type: 3}
---- !u!1 &7913059691324611068 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 1635273142699810, guid: 0541a402df969f442be9ec10a161693f,
-    type: 3}
-  m_PrefabInstance: {fileID: 7914261162476543710}
-  m_PrefabAsset: {fileID: 0}
 --- !u!4 &7915666736227743596 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4224794579921330, guid: 0541a402df969f442be9ec10a161693f,

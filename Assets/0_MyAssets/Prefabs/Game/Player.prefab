@@ -1760,10 +1760,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: CFX2_Blood
       objectReference: {fileID: 0}
-    - target: {fileID: 100000, guid: bc98890f6028f444eaa7789bde5e2eeb, type: 3}
-      propertyPath: m_IsActive
-      value: 0
-      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: bc98890f6028f444eaa7789bde5e2eeb, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
@@ -1838,10 +1834,6 @@ PrefabInstance:
     - target: {fileID: 194062, guid: 8c27aeead6d968e4ba986702d6b84335, type: 3}
       propertyPath: m_Name
       value: FX_BloodSplatter
-      objectReference: {fileID: 0}
-    - target: {fileID: 194062, guid: 8c27aeead6d968e4ba986702d6b84335, type: 3}
-      propertyPath: m_IsActive
-      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 420266, guid: 8c27aeead6d968e4ba986702d6b84335, type: 3}
       propertyPath: m_LocalPosition.x

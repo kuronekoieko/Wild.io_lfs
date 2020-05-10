@@ -52,7 +52,6 @@ public class FeedController : BaseCharactorController
     {
         base.Killed();
         animator.SetTrigger("Dead");
-        gameObject.SetActive(false);
     }
 
     public static float Vector2ToDegree(Vector2 vec)
