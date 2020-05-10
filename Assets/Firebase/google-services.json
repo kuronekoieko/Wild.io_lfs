@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "514749915525",
+    "firebase_url": "https://unity-7bca6.firebaseio.com",
+    "project_id": "unity-7bca6",
+    "storage_bucket": "unity-7bca6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:514749915525:android:a97c361c3f2061a82b64ec",
+        "android_client_info": {
+          "package_name": "com.colorfulMerge.games"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "514749915525-1jge1ijo6t9olstd1mosq1s5bkp1kg1p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdvaQUqKLnqU6YCL_OdT0V0wUbxmL3Qmo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "514749915525-1jge1ijo6t9olstd1mosq1s5bkp1kg1p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "514749915525-69v3ucctva91rie2sg65i0ho8i6bujvc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.wild.games",
+                "app_store_id": "1506975021"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:514749915525:android:1ae738e84495a2342b64ec",
+        "android_client_info": {
+          "package_name": "com.wild.games"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "514749915525-1jge1ijo6t9olstd1mosq1s5bkp1kg1p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdvaQUqKLnqU6YCL_OdT0V0wUbxmL3Qmo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "514749915525-1jge1ijo6t9olstd1mosq1s5bkp1kg1p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "514749915525-69v3ucctva91rie2sg65i0ho8i6bujvc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.wild.games",
+                "app_store_id": "1506975021"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
